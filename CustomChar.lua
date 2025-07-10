@@ -1,14 +1,14 @@
 local Tabela = {
 	PlayerPermission = {
 		["ahshdhjj1231"] = 			{Tier = 2000},
-		["amigo"] = 			{Tier = },
-		["amigo"] = 				{Tier = 1},
-		["amigo"] = 				{Tier = 1},
-		["amigo"] = 				{Tier = 1},
-		["amigo"] = 			{Tier = 1},
-		["amigo"] = 			{Tier = 1},
-		["amigo"] = 			{Tier = 1},
-		["amigo"] = 				{Tier = 1},
+		[""] = 			        {Tier = 1},
+		[""] = 				{Tier = 1},
+		[""] = 				{Tier = 1},
+		[""] = 				{Tier = 1},
+		[""] = 			        {Tier = 1},
+		[""] = 			        {Tier = 1},
+		[""] = 			        {Tier = 1},
+		[""] = 				{Tier = 1},
 	},
 	
 	CharacterTier = {
@@ -16,8 +16,8 @@ local Tabela = {
 		["DIO"]	=					{Locked = {4186736720}},
 		["Madara"]	=				{Locked = {4186736720}},
 		["Koku"]	=				{Locked = {}},
-		["Yori"]	=				{Permission = {},
-		["Meliodas"]	=				{Permission = {}},
+		["Yori"]	=				{Permission = {4186736720},
+		["Meliodas"]	=				{Permission = {4186736720}},
 		["Goku"]	=				{Locked = {}},
 		["TOP"]	=					{Locked = {}},
 		["Giorno"] = 					{Tier = 1050,Permission = {4186736720}},
